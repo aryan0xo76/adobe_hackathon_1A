@@ -1,0 +1,11 @@
+# Ignore model files and folders—do NOT track in git
+model/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode and JetBrains (optional; safe defaults, can remove if you want to keep configs)
+.vscode/
+.idea/

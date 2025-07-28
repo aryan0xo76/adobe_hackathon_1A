@@ -1,0 +1,9 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor/project files (optional)
+.vscode/
+.idea/
