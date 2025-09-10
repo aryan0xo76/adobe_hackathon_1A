@@ -6,6 +6,8 @@ The `model` folder is too large for GitHub.
 Please download it from: https://drive.google.com/drive/folders/1RdchzRG1YmGgSt3jPGpHlz1RzuE95s0m?usp=drive_link  
 Place it in the same directory as the `Dockerfile` before building/running Docker.
 
+1B Repository - https://github.com/aryan0xo76/adobe_hackathon_1B
+
 ## Dependencies
 
 All Python dependencies are listed in `requirements.txt`. Key packages include:
